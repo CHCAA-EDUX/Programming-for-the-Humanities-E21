@@ -3,17 +3,17 @@
 The dictionary data type is a mutable collection of values, stored as key-value pairs
 
 ```py
-book = {'title': 'Neuromancer', 'author': "Gibson, William" , 'genre': 'Science fiction'}
+>>> book = {'title': 'Neuromancer', 'author': "Gibson, William" , 'genre': 'Science fiction'}
 ```
 
 Unlike [lists](link-to-list_data.md), dictionaries are unordered
 
 ```py
-book = {'title': 'Neuromancer', 'author': "Gibson, William" , 'genre': 'Science fiction'}
+>>> book = {'title': 'Neuromancer', 'author': "Gibson, William" , 'genre': 'Science fiction'}
 
-permuatation = {'genre': 'Science fiction', 'author': "Gibson, William", 'title': 'Neuromancer'}
+>>> permuatation = {'genre': 'Science fiction', 'author': "Gibson, William", 'title': 'Neuromancer'}
 
-book == permutation
+>>> book == permutation
 True
 ```
 
@@ -21,10 +21,10 @@ But insertion order is remembered since Python 3.7
 
 ```py
 
-list(book)
+>>> list(book)
 ['title', 'author', 'genre']
 
-list(permutation)
+>>> list(permutation)
 ['genre', 'author', 'title']
 ```
 
@@ -68,6 +68,7 @@ Dick, Phillip K is the author of VALIS
 
 ```py
 import pprint
+
 text = 'Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators, in every nation.'
 
 counter = dict()
