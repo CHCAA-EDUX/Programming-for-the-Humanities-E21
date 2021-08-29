@@ -53,12 +53,18 @@ Using the Unix shell (command line interpreter) and terminal (text input/output 
 
 ### Lesson 6: Pattern Matching with Regex
 
-### Lesson 7: Classes and Object-oriented Programming
 
 #### Coding Café
 
 ##### Reading
 * Sweigart 2019, chp 7: [Patterns Matching with Regular Expressions](https://automatetheboringstuff.com/2e/chapter7/)
+
+
+### Lesson 7: Classes and Object-oriented Programming
+
+#### Coding Café
+
+##### Reading
 
 ### Lesson 8: Formats for Representing Structured Data (CSV and JSONS)
 
