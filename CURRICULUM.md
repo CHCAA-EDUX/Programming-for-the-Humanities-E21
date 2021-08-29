@@ -17,8 +17,8 @@ Using the Unix shell (command line interpreter) and terminal (text input/output 
 
 ##### Reading #####
 
-* Sweigart 2019, chp 1: [Python Basic](https://automatetheboringstuff.com/2e/chapter1/)
-
+* A. Sweigart, 2019, chp 1: [Python Basic](https://automatetheboringstuff.com/2e/chapter1/)
+* \[OPTIONAL\] K.W. Church, 2013: [Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)
 
 ### Lesson 2: Flow Control
 #### Coding Café: Version Control
