@@ -1,16 +1,20 @@
 # PftH21 Curriculum #
 
-## Lessons 1-13
+## Lessons 1-13 ##
 
 Each lesson consists of two elements:
 
 1. Lecture, introduces a programming topic through a short presentation followed by a code-along session
 2. Coding Café, are used for additional programming topics not directly related to Python (e.g., version control, bash scripting), research talks, and excercises/assignments.
 
-
 ### Lesson 1: File Management and Interactive Programming ###
 
-#### Coding Café: Unix Terminal
+Introduces the imperative and procedural programming paradigms with Python. Topics included are basic math operators, variable assignment, PEP8, basic error handling.
+
+#### Coding Café: Basic Unix ####
+
+Using the Unix shell (command line interpreter) and terminal (text input/output environment) is an important tool for file managment, automationand client-server communication. This café will introduce basic commands and shell scripting.
+
 ##### Reading #####
 
 * Sweigart 2019, chp 1: [Python Basic](https://automatetheboringstuff.com/2e/chapter1/)
