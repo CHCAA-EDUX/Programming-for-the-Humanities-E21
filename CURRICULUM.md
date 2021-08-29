@@ -49,27 +49,28 @@ Each lesson consists of two elements:
 
 ### Lesson 6: Pattern Matching with Regex
 
+### Lesson 7: Classes and Object-oriented Programming
 
 #### Coding Café
 
 ##### Reading
 * Sweigart 2019, chp 7: [Patterns Matching with Regular Expressions](https://automatetheboringstuff.com/2e/chapter7/)
 
-### Lesson 7: Formats for Representing Structured Data (CSV and JSONS)
+### Lesson 8: Formats for Representing Structured Data (CSV and JSONS)
 
 
 #### Coding Café
 ##### Reading
 * Sweigart 2019, chp 16: [Working with CSV Files and JSON Data](https://automatetheboringstuff.com/2e/chapter16/)
 
-### Lesson 8: Web Scraping
+### Lesson 9: Web Scraping
 
 
 #### Coding Café
 ##### Reading
 * Sweigart 2019, chp 12: [Web Scraping](https://automatetheboringstuff.com/2e/chapter12/)
 
-### Lesson 9: Information Visualization
+### Lesson 10: Information Visualization
 #### Coding Café
 ##### Reading
 * 
@@ -77,28 +78,25 @@ Each lesson consists of two elements:
 #### Assignment
 
 
-### Lesson 10: Introduction to Machine Learning and AI
+### Lesson 11: Introduction to Machine Learning and AI
 
 
 #### Coding Café
 ##### Reading
 * 
 
-### Lesson 11: Supervised Machine Learning
+### Lesson 12: Supervised Machine Learning
 
 #### Coding Café
 
-##### Reading
-* 
-
-##### Assignment
-### Lesson 12: Unsupervised Machine Learning
-
-
-#### Coding Café
 ##### Reading
 * 
 
 ##### Assignment
+### Lesson 13: Unsupervised Machine Learning
 
-### Lesson 13: Project Sprint
+
+#### Coding Café
+##### Reading
+* 
+##### Assignment
