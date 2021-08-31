@@ -40,22 +40,28 @@ Functions are bundles of organized and reusable code that run when called and re
 
 * Sweigart 2019, chp 3: [Functions](https://automatetheboringstuff.com/2e/chapter3/)
 
-
 ##### Assignment #####
+
+* TBA
 ### Lesson 4: Lists and Dictionaries ###
+
+Data type is an important concept in programming. Variables store data in different types that have type-specific methods associated with them. Python have multiple built-in data types, you have used simple data types like `str`, `int`, and `float` in the previous lessons; in this lesson we look at container-like data types that can be used to store and manipulate simple data types.
+
+#### Coding Café: PEP 8 - Style Guide for Python Code ####
+
+##### Reading ####
+
+* Sweigart 2019, chp 4-5: [Lists](https://automatetheboringstuff.com/2e/chapter4/) and [Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
+* \[PEP 8\](https://www.python.org/dev/peps/pep-0008/)
+
+
+### Lesson 5: String Manipulation ####
+
 
 #### Coding Café ####
 
-##### Reading
-* Sweigart 2019, chp 4-5: [Lists](https://automatetheboringstuff.com/2e/chapter4/) and [Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
+##### Reading #####
 
-
-### Lesson 5: String Manipulation.
-
-
-#### Coding Café
-
-##### Reading
 * Sweigart 2019, chp 6: [Manipulating Strings](https://automatetheboringstuff.com/2e/chapter6/)
 ##### Assignment
 
