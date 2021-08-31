@@ -52,7 +52,7 @@ Data type is an important concept in programming. Variables store data in differ
 ##### Reading ####
 
 * Sweigart 2019, chp 4-5: [Lists](https://automatetheboringstuff.com/2e/chapter4/) and [Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
-* \[PEP 8\](https://www.python.org/dev/peps/pep-0008/)
+* \[OPTIONAL\] [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 
 
 ### Lesson 5: String Manipulation ####
