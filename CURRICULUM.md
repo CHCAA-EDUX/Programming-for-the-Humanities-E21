@@ -57,16 +57,20 @@ Data type is an important concept in programming. Variables store data in differ
 
 ### Lesson 5: String Manipulation ####
 
+A string is a sequence of characters (character is a symbol). In Python 3, as in many other programming languages, strings, data type `str`, are arrays of bytes that represent unicode characters. In this lesson, we will look at string manipulation, which is the process of changing, parsing, splicing, pasting, or analyzing strings.
 
 #### Coding Café ####
 
 ##### Reading #####
 
 * Sweigart 2019, chp 6: [Manipulating Strings](https://automatetheboringstuff.com/2e/chapter6/)
-##### Assignment
 
-### Lesson 6: Pattern Matching with Regex
+##### Assignment #####
 
+* TBA
+### Lesson 6: Pattern Matching with Regex ###
+
+A regular expression (regex for short) is a sequence of characters that specifies a search pattern. In Python, as in many other programming langauges, regex patterns can be used with string-searching algorithms for `find` and `replace` that allow you to extend Python's string manipulation capacity. In the lessons, we will learn how to apply regex classes and formulte user-specific search patterns. 
 
 #### Coding Café
 
@@ -74,11 +78,16 @@ Data type is an important concept in programming. Variables store data in differ
 * Sweigart 2019, chp 7: [Patterns Matching with Regular Expressions](https://automatetheboringstuff.com/2e/chapter7/)
 
 
-### Lesson 7: Classes and Object-oriented Programming
+### Lesson 7: Classes and Object-Oriented Programming
 
-#### Coding Café
+
+#### Coding Café: Fun with Classes and OOP
+
+Object oriented programming (OOP) is a programming paradigm used to structure a program into bundles of related properties and behaviors into individual objects. Python classes provide all the standard features of OOP (inheritance mechanism, derived classes that override methods of base class, method call of base class). This lesson will teach you how to use OOP in Python to write a strategic code base that can be used and re-used across multiple projects.
 
 ##### Reading
+
+* [Python Doc - Classes](https://docs.python.org/3/tutorial/classes.html)
 
 ### Lesson 8: Formats for Representing Structured Data (CSV and JSONS)
 
@@ -104,7 +113,7 @@ Data type is an important concept in programming. Variables store data in differ
 
 ### Lesson 11: Introduction to Machine Learning and AI
 
-
+Machine learning is an approach to programming that use data and learning systems to train algorithms (instead of specifying discrete steps in a programming space). This lesson is predominantly theoretical and will explain learning methods in machine learning as well as challenges such as black-box models and parity issues.
 #### Coding Café
 ##### Reading
 * 
