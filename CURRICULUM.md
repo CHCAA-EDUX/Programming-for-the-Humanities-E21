@@ -17,26 +17,34 @@ Using the Unix shell (command line interpreter) and terminal (text input/output 
 
 ##### Reading #####
 
-* A. Sweigart, 2019, chp 1: [Python Basic](https://automatetheboringstuff.com/2e/chapter1/)
+* A. Sweigart, 2019, chp 1: [Python Basics](https://automatetheboringstuff.com/2e/chapter1/)
+
+
+### Lesson 2: Control Flow
+
+Introduces how to regulate the order in which a Python program's code executes. In programming, control flow is regulated by conditional statements, loops and function calls.
+
+#### Coding Café: Basic Unix
+##### Reading #####
+
+* Sweigart 2019, chp 2: [Flow Control](https://automatetheboringstuff.com/2e/chapter2/)
 * \[OPTIONAL\] K.W. Church, 2013: [Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)
 
-### Lesson 2: Flow Control
-#### Coding Café: Version Control
-##### Reading
-* Sweigart 2019, chp 2: [Flow Control](https://automatetheboringstuff.com/2e/chapter2/)
+### Lesson 3: Functions and Modular Programming ###
 
-### Lesson 3: Functions and Modular Programming
+Functions are bundles of organized and reusable code that run when called and require data and parameter (in most cases) that are used to control how a program's code executes. This lesson teaches modular programming focusing on the use of functions. In modular programming, we split code into seperate parts (i.e., modules) that are stored in seperate source files and can be reused across your projects.
 
+#### Coding Café: Version Control ####
 
-#### Coding Café: 
-##### Reading
+##### Reading #####
+
 * Sweigart 2019, chp 3: [Functions](https://automatetheboringstuff.com/2e/chapter3/)
 
 
-##### Assignment
-### Lesson 4: Lists and Dictionaries
+##### Assignment #####
+### Lesson 4: Lists and Dictionaries ###
 
-#### Coding Café
+#### Coding Café ####
 
 ##### Reading
 * Sweigart 2019, chp 4-5: [Lists](https://automatetheboringstuff.com/2e/chapter4/) and [Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
