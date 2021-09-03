@@ -135,5 +135,4 @@ Machine learning is an approach to programming that use data and learning system
 
 #### Coding Café
 ##### Reading
-* 
-##### Assignment
+*
