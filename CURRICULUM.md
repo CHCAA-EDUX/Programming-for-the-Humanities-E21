@@ -13,7 +13,7 @@ Introduces the imperative and procedural programming paradigms with Python. Topi
 
 #### Coding Café: Basic Unix ####
 
-Using the Unix shell (command line interpreter) and terminal (text input/output environment) is an important tool for file managment, automationand client-server communication. This café will introduce basic commands and shell scripting.
+Using the Unix shell (command line interpreter) and terminal (text input/output environment) is an important tool for file managment, automation and client-server communication. This café will introduce basic commands and shell scripting.
 
 ##### Reading #####
 
@@ -25,6 +25,8 @@ Using the Unix shell (command line interpreter) and terminal (text input/output 
 Introduces how to regulate the order in which a Python program's code executes. In programming, control flow is regulated by conditional statements, loops and function calls.
 
 #### Coding Café: Basic Unix
+
+In this coding café, we continue with the Unix shell and terminal focusing on automation and workflows.
 ##### Reading #####
 
 * Sweigart 2019, chp 2: [Flow Control](https://automatetheboringstuff.com/2e/chapter2/)
@@ -35,6 +37,8 @@ Introduces how to regulate the order in which a Python program's code executes. 
 Functions are bundles of organized and reusable code that run when called and require data and parameter (in most cases) that are used to control how a program's code executes. This lesson teaches modular programming focusing on the use of functions. In modular programming, we split code into seperate parts (i.e., modules) that are stored in seperate source files and can be reused across your projects.
 
 #### Coding Café: Version Control ####
+
+Version control with git is an invaluable tool for every coder, extending it with online repositories and social coding through GitHub completes the toolbox. 
 
 ##### Reading #####
 
