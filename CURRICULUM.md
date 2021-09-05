@@ -39,7 +39,6 @@ In this coding café, we continue with the Unix shell and terminal focusing on a
 ##### Reading #####
 
 * Sweigart 2019, chp 2: [Flow Control](https://automatetheboringstuff.com/2e/chapter2/)
-* \[OPTIONAL\] K.W. Church, 2013: [Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)
 
 ### Lesson 3: Functions and Modular Programming ###
 
@@ -55,8 +54,9 @@ In this coding café, we continue with the Unix shell and terminal focusing on a
 ##### Reading #####
 
 * Sweigart 2019, chp 3: [Functions](https://automatetheboringstuff.com/2e/chapter3/)
+* \[OPTIONAL\] K.W. Church, 2013: [Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)
 
-##### Assignment #####
+##### Assignment 1 #####
 
 * TBA
 
@@ -91,7 +91,7 @@ A string is a sequence of characters (character is a symbol). In Python 3, as in
 
 * Sweigart 2019, chp 6: [Manipulating Strings](https://automatetheboringstuff.com/2e/chapter6/)
 
-##### Assignment #####
+##### Assignment 2 #####
 
 * TBA
 
@@ -113,13 +113,17 @@ A regular expression (regex for short) is a sequence of characters that specifie
 __Time__ Monday, October 18, 0800-1000 (1200 w. café)  
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
-#### Coding Café: Fun with Classes and OOP
-
 Object oriented programming (OOP) is a programming paradigm used to structure a program into bundles of related properties and behaviors into individual objects. Python classes provide all the standard features of OOP (inheritance mechanism, derived classes that override methods of base class, method call of base class). This lesson will teach you how to use OOP in Python to write a strategic code base that can be used and re-used across multiple projects.
+
+#### Coding Café: Fun with Classes and OOP
 
 ##### Reading
 
 * [Python Doc - Classes](https://docs.python.org/3/tutorial/classes.html)
+
+##### Assignment 3 #####
+
+* TBA
 
 ### Lesson 8: Formats for Representing Structured Data (CSV and JSONS)
 
@@ -136,6 +140,7 @@ __Time__ Monday, November 01, 0800-1000 (1200 w. café)
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
+
 ##### Reading
 * Sweigart 2019, chp 12: [Web Scraping](https://automatetheboringstuff.com/2e/chapter12/)
 
@@ -145,11 +150,11 @@ __Time__ Monday, November 08, 0800-1000 (1200 w. café)
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
-##### Reading
-*
 
-#### Assignment
+##### Reading #####
 
+#### Assignment 4 ####
+* TBA
 
 ### Lesson 11: Introduction to Machine Learning and AI
 
@@ -158,6 +163,7 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 Machine learning is an approach to programming that use data and learning systems to train algorithms (instead of specifying discrete steps in a programming space). This lesson is predominantly theoretical and will explain learning methods in machine learning as well as challenges such as black-box models and parity issues.
 #### Coding Café
+
 ##### Reading
 *
 
@@ -168,10 +174,11 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 #### Coding Café
 
-##### Reading
-*
+##### Reading #####
 
-##### Assignment
+#### Assignment 5 ####
+* TBA
+
 ### Lesson 13: Unsupervised Machine Learning
 
 __Time__ Monday, November 29, 0800-1000 (1200 w. café)  
