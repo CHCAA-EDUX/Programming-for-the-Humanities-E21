@@ -33,13 +33,13 @@ This repository has the following directory structure:
 ```
 .
 ├── CURRICULUM.md
-├── dat
-├── lessons
+├── dat % data for exercises
+├── lessons % thematic lessons in md  
 ├── LICENSE.md
-├── reading
+├── reading % reading (not Sweigart)
 ├── README.md
-├── slides
-└── src
+├── slides % slides from class in pdf
+└── src % py code snippets
 
 ```
 
