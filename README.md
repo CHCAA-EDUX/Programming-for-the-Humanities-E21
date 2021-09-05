@@ -2,40 +2,46 @@
 
 This repository contains all of the code and data related to the Fall 2021 (E21) course _Programming for the Humanities_ which is an [internationalisation elective](https://kursuskatalog.au.dk/da/course/106983/Programming-for-the-Humanities) at [Aarhus University](https://international.au.dk/), [Faculty of Arts](https://arts.au.dk/en/). The course is taught by [Center for Humanities Computing Aarhus](https://chcaa.io/#/), any inquiries can be addressed to [CHCAA](mailto:chcaa@cas.au.dk?subject=[PftHe21]%20Student%20Inquiry)
 
-This repository is in active development, with new material being pushed on a weekly basis. 
+This repository is in active development, with new material being pushed on a weekly basis.
 ## Technicalities
 
-For the sake of convenience, I recommend using our own [JupyterHub server](https://worker02.chcaa.au.dk/jupyter/hub/login) for development purposes. The first time you use the server, you'll need to create your own version of the repo and install relevant dependencies in a virtual environment:
+For running in virtual environment (recommended) and assuming python3.6+ is installed.
 
 ```bash
-git clone https://github.com/CDS-AU-DK/cds-visual.git
-cd cds-visual
-bash create_vision_venv.sh
+$ sudo pip3 install virtualenv
+$ virtualenv -p /usr/bin/python3 venv
+$ source venv/bin/activate
 ```
 
-From then on, every time you use the server, make sure you update the repo and install any new dependencies:
+### Installation
+
+Clone repository and install requirements
 
 ```bash
-cd lang101
-git pull origin main
-bash create_vision_venv.sh
+$ git clone https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21.git
+$ pip3 install -r requirements.txt
 ```
+
+#### GPU acceleration
+
+[TBA] for your desired CUDA version.
 
 ## Repo structure
 
 This repository has the following directory structure:
 
-| Column | Description|
-|--------|:-----------|
-```data```| A folder to be used for sample datasets that we use in class.
-```notebooks``` | This is where you should save all exploratory and experimental notebooks.
-```src``` | Python scripts to be used in class.
-```utils``` | Utility functions that are written by me, and which we'll use in class.
+```
+.
+├── CURRICULUM.md
+├── dat
+├── lessons
+├── LICENSE.md
+├── reading
+├── README.md
+├── slides
+└── src
 
-
-## Class times
-
-This class takes place on Monday Mornings 0800-1200.
+```
 
 ## Course overview and readings
 
@@ -47,7 +53,7 @@ This class takes place on Monday Mornings 0800-1200.
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+5. Submit a pull request :smiling_imp:
 
 ## Versioning
 
