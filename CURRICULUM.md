@@ -7,6 +7,8 @@ Each lesson consists of two elements:
 1. Lecture, introduces a programming topic through a short presentation followed by a code-along session
 2. Coding Café, are used for additional programming topics not directly related to Python (e.g., version control, bash scripting), research talks, and excercises/assignments.
 
+---
+
 ### Lesson 1: File Management and Interactive Programming ###
 
 __Time__ Monday, September 06, 0800-1000 (1200 w. café)  
@@ -22,6 +24,8 @@ Continues lesson 1 with a code-along
 ##### Reading #####
 
 * A. Sweigart, 2019, chp 1: [Python Basics](https://automatetheboringstuff.com/2e/chapter1/)
+
+---
 
 ### Lesson 2: Control Flow
 
@@ -39,6 +43,8 @@ In this coding café, we continue with the Unix shell and terminal focusing on a
 ##### Reading #####
 
 * Sweigart 2019, chp 2: [Flow Control](https://automatetheboringstuff.com/2e/chapter2/)
+
+---
 
 ### Lesson 3: Functions and Modular Programming ###
 
@@ -60,6 +66,8 @@ In this coding café, we continue with the Unix shell and terminal focusing on a
 
 * TBA
 
+---
+
 ### Lesson 4: Lists and Dictionaries ###
 
 __Time__ Monday, September 26, 0800-1000 (1200 w. café)  
@@ -77,6 +85,7 @@ Version control with git is an invaluable tool for every coder, extending it wit
 * Sweigart 2019, chp 4-5: [Lists](https://automatetheboringstuff.com/2e/chapter4/) and [Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
 * \[OPTIONAL\] [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 
+---
 
 ### Lesson 5: String Manipulation ####
 
@@ -95,6 +104,8 @@ A string is a sequence of characters (character is a symbol). In Python 3, as in
 
 * TBA
 
+---
+
 ### Lesson 6: Pattern Matching with Regex ###
 
 __Time__ Monday, October 11, 0800-1000 (1200 w. café)  
@@ -107,6 +118,7 @@ A regular expression (regex for short) is a sequence of characters that specifie
 ##### Reading
 * Sweigart 2019, chp 7: [Patterns Matching with Regular Expressions](https://automatetheboringstuff.com/2e/chapter7/)
 
+---
 
 ### Lesson 7: Classes and Object-Oriented Programming
 
@@ -125,14 +137,19 @@ Object oriented programming (OOP) is a programming paradigm used to structure a 
 
 * TBA
 
+---
+
 ### Lesson 8: Formats for Representing Structured Data (CSV and JSONS)
 
 __Time__ Monday, October 25, 0800-1000 (1200 w. café)  
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
+
 ##### Reading
 * Sweigart 2019, chp 16: [Working with CSV Files and JSON Data](https://automatetheboringstuff.com/2e/chapter16/)
+
+---
 
 ### Lesson 9: Web Scraping
 
@@ -143,6 +160,8 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 ##### Reading
 * Sweigart 2019, chp 12: [Web Scraping](https://automatetheboringstuff.com/2e/chapter12/)
+
+---
 
 ### Lesson 10: Information Visualization
 
@@ -156,6 +175,8 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 #### Assignment 4 ####
 * TBA
 
+---
+
 ### Lesson 11: Introduction to Machine Learning and AI
 
 __Time__ Monday, November 15, 0800-1000 (1200 w. café)  
@@ -165,7 +186,8 @@ Machine learning is an approach to programming that use data and learning system
 #### Coding Café
 
 ##### Reading
-*
+
+---
 
 ### Lesson 12: Supervised Machine Learning
 
@@ -179,6 +201,8 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 #### Assignment 5 ####
 * TBA
 
+---
+
 ### Lesson 13: Unsupervised Machine Learning
 
 __Time__ Monday, November 29, 0800-1000 (1200 w. café)  
@@ -187,4 +211,6 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 #### Coding Café
 
 ##### Reading
-*
+
+
+---
