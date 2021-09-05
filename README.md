@@ -30,16 +30,16 @@ $ pip3 install -r requirements.txt
 
 This repository has the following directory structure:
 
-```
+```sh
 .
 ├── CURRICULUM.md
-├── dat % data for exercises
-├── lessons % thematic lessons in md  
+├── dat # data for exercises
+├── lessons # thematic lessons in md  
 ├── LICENSE.md
-├── reading % reading (not Sweigart)
+├── reading # reading (not Sweigart)
 ├── README.md
-├── slides % slides from class in pdf
-└── src % py code snippets
+├── slides # slides from class in pdf
+└── src # py code snippets
 
 ```
 
