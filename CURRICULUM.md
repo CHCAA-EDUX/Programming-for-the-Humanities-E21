@@ -122,7 +122,7 @@ A regular expression (regex for short) is a sequence of characters that specifie
 
 ### Lesson 7: Classes and Object-Oriented Programming
 
-__Time__ Monday, October 18, 0800-1000 (1200 w. café)  
+__Time__ Monday, October 25, 0800-1000 (1200 w. café)
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 Object oriented programming (OOP) is a programming paradigm used to structure a program into bundles of related properties and behaviors into individual objects. Python classes provide all the standard features of OOP (inheritance mechanism, derived classes that override methods of base class, method call of base class). This lesson will teach you how to use OOP in Python to write a strategic code base that can be used and re-used across multiple projects.
@@ -141,7 +141,7 @@ Object oriented programming (OOP) is a programming paradigm used to structure a 
 
 ### Lesson 8: Formats for Representing Structured Data (CSV and JSONS)
 
-__Time__ Monday, October 25, 0800-1000 (1200 w. café)  
+__Time__ Monday, November 01, 0800-1000 (1200 w. café) 
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
@@ -153,7 +153,7 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 ### Lesson 9: Web Scraping
 
-__Time__ Monday, November 01, 0800-1000 (1200 w. café)  
+__Time__ Monday, November 08, 0800-1000 (1200 w. café) 
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
@@ -165,7 +165,7 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 ### Lesson 10: Information Visualization
 
-__Time__ Monday, November 08, 0800-1000 (1200 w. café)  
+__Time__ Monday, November 15, 0800-1000 (1200 w. café) 
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
@@ -179,7 +179,7 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 ### Lesson 11: Introduction to Machine Learning and AI
 
-__Time__ Monday, November 15, 0800-1000 (1200 w. café)  
+__Time__ Monday, November 22, 0800-1000 (1200 w. café)   
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 Machine learning is an approach to programming that use data and learning systems to train algorithms (instead of specifying discrete steps in a programming space). This lesson is predominantly theoretical and will explain learning methods in machine learning as well as challenges such as black-box models and parity issues.
@@ -189,9 +189,9 @@ Machine learning is an approach to programming that use data and learning system
 
 ---
 
-### Lesson 12: Supervised Machine Learning
+### Lesson 12: Supervised Machine Learning 1 ###
 
-__Time__ Monday, November 22, 0800-1000 (1200 w. café)  
+__Time__ Monday, November 29, 0800-1000 (1200 w. café) 
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
@@ -203,9 +203,9 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 ---
 
-### Lesson 13: Unsupervised Machine Learning
+### Lesson 13: Supervised Machine Learning ###
 
-__Time__ Monday, November 29, 0800-1000 (1200 w. café)  
+__Time__ Monday, December 05, 0800-1000 (1200 w. café)
 __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
