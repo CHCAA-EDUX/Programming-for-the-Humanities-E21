@@ -32,9 +32,10 @@ This repository has the following directory structure:
 
 ```sh
 .
+├── assignments
 ├── CURRICULUM.md
 ├── dat # data for exercises
-├── lessons # thematic lessons in md  
+├── lessons # thematic lessons in md 
 ├── LICENSE.md
 ├── reading # reading (not Sweigart)
 ├── README.md
