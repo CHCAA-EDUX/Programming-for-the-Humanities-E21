@@ -46,6 +46,8 @@ This repository has the following directory structure:
 
 ## Course overview and readings
 
+See [Curriculum](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21/blob/main/CURRICULUM.md)
+
 ## Contact details
 
 ## Contributing
