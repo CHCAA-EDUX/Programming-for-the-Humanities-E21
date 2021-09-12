@@ -35,11 +35,9 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 Introduces how to regulate the order in which a Python program's code executes. In programming, control flow is regulated by conditional statements, loops and function calls.
 
-#### Coding Café: Basic Unix
+#### Coding Café: Coding challenges ####
 
-Using the Unix shell (command line interpreter) and terminal (text input/output environment) is an important tool for file managment, automation and client-server communication. This café will introduce basic commands and shell scripting.
-
-In this coding café, we continue with the Unix shell and terminal focusing on automation and workflows.
+In this coding café, you will solve [coding challenges](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21/blob/main/exercises/excr_02_control_flow.md) about control flow in groups of two or four. Be sure that you can answer the [basic python challenges](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21/blob/main/exercises/excr_01_basic_python.md) before you start.  
 ##### Reading #####
 
 * Sweigart 2019, chp 2: [Flow Control](https://automatetheboringstuff.com/2e/chapter2/)
@@ -55,12 +53,13 @@ Functions are bundles of organized and reusable code that run when called and re
 
 #### Coding Café: Basic Unix
 
+Using the Unix shell (command line interpreter) and terminal (text input/output environment) is an important tool for file managment, automation and client-server communication. This café will introduce basic commands and shell scripting.
+
 In this coding café, we continue with the Unix shell and terminal focusing on automation and workflows.
 
 ##### Reading #####
 
 * Sweigart 2019, chp 3: [Functions](https://automatetheboringstuff.com/2e/chapter3/)
-* \[OPTIONAL\] K.W. Church, 2013: [Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)
 
 ##### Assignment 1 #####
 
@@ -75,15 +74,15 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 Data type is an important concept in programming. Variables store data in different types that have type-specific methods associated with them. Python have multiple built-in data types, you have used simple data types like `str`, `int`, and `float` in the previous lessons; in this lesson we look at container-like data types that can be used to store and manipulate simple data types.
 
-#### Coding Café: Version Control ####
+#### Coding Café: Basic Unix
 
-Version control with git is an invaluable tool for every coder, extending it with online repositories and social coding through GitHub completes the toolbox.
-
+In this coding café, we continue with the Unix shell and terminal focusing on automation and workflows.
 
 ##### Reading ####
 
 * Sweigart 2019, chp 4-5: [Lists](https://automatetheboringstuff.com/2e/chapter4/) and [Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
-* \[OPTIONAL\] [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+* \[OPTIONAL\] K.W. Church, 2013: [Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)
+
 
 ---
 
@@ -94,7 +93,10 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 A string is a sequence of characters (character is a symbol). In Python 3, as in many other programming languages, strings, data type `str`, are arrays of bytes that represent unicode characters. In this lesson, we will look at string manipulation, which is the process of changing, parsing, splicing, pasting, or analyzing strings.
 
-#### Coding Café: PEP 8 - Style Guide for Python Code ####
+#### Coding Café: Version Control ####
+
+Version control with git is an invaluable tool for every coder, extending it with online repositories and social coding through GitHub completes the toolbox.
+
 
 ##### Reading #####
 
@@ -113,10 +115,11 @@ __Location__ room 114B in building [5008](https://www.au.dk/om/organisation/find
 
 A regular expression (regex for short) is a sequence of characters that specifies a search pattern. In Python, as in many other programming langauges, regex patterns can be used with string-searching algorithms for `find` and `replace` that allow you to extend Python's string manipulation capacity. In the lessons, we will learn how to apply regex classes and formulte user-specific search patterns.
 
-#### Coding Café
+#### Coding Café: PEP 8 - Style Guide for Python Code ####
 
 ##### Reading
 * Sweigart 2019, chp 7: [Patterns Matching with Regular Expressions](https://automatetheboringstuff.com/2e/chapter7/)
+* \[OPTIONAL\] [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 
 ---
 
