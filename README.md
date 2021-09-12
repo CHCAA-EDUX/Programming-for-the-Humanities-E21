@@ -2,6 +2,8 @@
 
 This repository contains all of the code and data related to the Fall 2021 (E21) course _Programming for the Humanities_ which is an [internationalisation elective](https://kursuskatalog.au.dk/da/course/106983/Programming-for-the-Humanities) at [Aarhus University](https://international.au.dk/), [Faculty of Arts](https://arts.au.dk/en/). The course is taught by [Center for Humanities Computing Aarhus](https://chcaa.io/#/), any inquiries can be addressed to [CHCAA](mailto:chcaa@cas.au.dk?subject=[PftHe21]%20Student%20Inquiry)
 
+From Monday Sept 13-2021, we have a new room: __Building 5008 (still Adorno) room 138__.
+
 This repository is in active development, with new material being pushed on a weekly basis.
 ## Technicalities
 
