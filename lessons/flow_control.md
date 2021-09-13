@@ -92,7 +92,7 @@ Boolean operators (NOT/AND/OR) compare Boolean values/expressions (True/False).
 
 Negation, NOT/$\lnot$
 
-| Expression | $\lnot$`True` | $\lnot$`False` |
+| Expression | not `True` | not `False` |
 | - | :-: | :-: |
 | Evaluates to...  | __F__ | __T__ |
 
@@ -109,7 +109,7 @@ False
 
 Conjunction, AND/$\land$
 
-| Expression | `True` $\land$ `True` | `True` $\land$ `False` | `False` $\land$ `True` | `False` $\land$ `False` |
+| Expression | `True` and `True` | `True` and `False` | `False` and `True` | `False` and `False` |
 | - | :-: | :-: | :-: | :-: |
 | Evaluates to...  | __T__ | __F__ | __F__ | __F__ |
 
@@ -128,7 +128,7 @@ False
 
 Disjunction, OR/$\lor$
 
-| Expression | `True` $\lor$ `True` | `True` $\lor$ `False` | `False` $\lor$ `True` | `False` $\lor$ `False` |
+| Expression | `True` or `True` | `True` or `False` | `False` or `True` | `False` or `False` |
 | - | :-: | :-: | :-: | :-: |
 | Evaluates to...  | __T__ | __T__ | __T__ | __F__ |
 
