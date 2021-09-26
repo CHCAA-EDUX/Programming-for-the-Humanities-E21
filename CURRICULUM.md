@@ -63,7 +63,7 @@ In this coding café, we continue with the Unix shell and terminal focusing on a
 
 ##### Assignment 1 #####
 
-* TBA
+[Assignment 1](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21/blob/main/assignments/assign_01.md)
 
 ---
 
@@ -74,15 +74,13 @@ __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-
 
 Data type is an important concept in programming. Variables store data in different types that have type-specific methods associated with them. Python have multiple built-in data types, you have used simple data types like `str`, `int`, and `float` in the previous lessons; in this lesson we look at container-like data types that can be used to store and manipulate simple data types.
 
-#### Coding Café: Basic Unix
+#### Coding Café: Basic Unix (Contd)
 
 In this coding café, we continue with the Unix shell and terminal focusing on automation and workflows.
 
 ##### Reading ####
 
 * Sweigart 2019, chp 4-5: [Lists](https://automatetheboringstuff.com/2e/chapter4/) and [Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
-* \[OPTIONAL\] K.W. Church, 2013: [Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)
-
 
 ---
 
@@ -93,14 +91,12 @@ __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-
 
 A string is a sequence of characters (character is a symbol). In Python 3, as in many other programming languages, strings, data type `str`, are arrays of bytes that represent unicode characters. In this lesson, we will look at string manipulation, which is the process of changing, parsing, splicing, pasting, or analyzing strings.
 
-#### Coding Café: Version Control ####
-
-Version control with git is an invaluable tool for every coder, extending it with online repositories and social coding through GitHub completes the toolbox.
-
+#### Coding Café: String Manipulation with Unix ####
 
 ##### Reading #####
 
 * Sweigart 2019, chp 6: [Manipulating Strings](https://automatetheboringstuff.com/2e/chapter6/)
+* \[OPTIONAL\] K.W. Church, 2013: [Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)
 
 ##### Assignment 2 #####
 
@@ -108,22 +104,22 @@ Version control with git is an invaluable tool for every coder, extending it wit
 
 ---
 
-### Lesson 6: Pattern Matching with Regex ###
+### Lesson 6: Classes and Object-Oriented Programming Regex ###
 
 __Time__ Monday, October 11, 0800-1000 (1200 w. café)  
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
-A regular expression (regex for short) is a sequence of characters that specifies a search pattern. In Python, as in many other programming langauges, regex patterns can be used with string-searching algorithms for `find` and `replace` that allow you to extend Python's string manipulation capacity. In the lessons, we will learn how to apply regex classes and formulte user-specific search patterns.
+Object oriented programming (OOP) is a programming paradigm used to structure a program into bundles of related properties and behaviors into individual objects. Python classes provide all the standard features of OOP (inheritance mechanism, derived classes that override methods of base class, method call of base class). This lesson will teach you how to use OOP in Python to write a strategic code base that can be used and re-used across multiple projects.
 
-#### Coding Café: PEP 8 - Style Guide for Python Code ####
+#### Coding Café: Version Control ####
+
+Version control with git is an invaluable tool for every coder, extending it with online repositories and social coding through GitHub completes the toolbox.
 
 ##### Reading
-* Sweigart 2019, chp 7: [Patterns Matching with Regular Expressions](https://automatetheboringstuff.com/2e/chapter7/)
-* \[OPTIONAL\] [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 
 ---
 
-### Lesson 7: Classes and Object-Oriented Programming
+### Lesson 7: Classes and Object-Oriented Programming ###
 
 __Time__ Monday, October 25, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
