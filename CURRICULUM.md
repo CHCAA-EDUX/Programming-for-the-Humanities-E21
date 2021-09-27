@@ -91,12 +91,11 @@ __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-
 
 A string is a sequence of characters (character is a symbol). In Python 3, as in many other programming languages, strings, data type `str`, are arrays of bytes that represent unicode characters. In this lesson, we will look at string manipulation, which is the process of changing, parsing, splicing, pasting, or analyzing strings.
 
-#### Coding Café: String Manipulation with Unix ####
+#### Coding Café: Fun with Information Retrieval ####
 
 ##### Reading #####
 
 * Sweigart 2019, chp 6: [Manipulating Strings](https://automatetheboringstuff.com/2e/chapter6/)
-* \[OPTIONAL\] K.W. Church, 2013: [Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf)
 
 ##### Assignment 2 #####
 
