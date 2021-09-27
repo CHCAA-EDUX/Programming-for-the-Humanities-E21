@@ -1,4 +1,4 @@
-# Exercises for Functions Lesson #
+# Exercises for Lists and Dictionanries Lesson #
 
 ## Pair programming ##
 
