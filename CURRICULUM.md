@@ -99,11 +99,11 @@ A string is a sequence of characters (character is a symbol). In Python 3, as in
 
 ##### Assignment 2 #####
 
-* TBA
+* Assignment 2: Word Importance
 
 ---
 
-### Lesson 6: Classes and Object-Oriented Programming Regex ###
+### Lesson 6: Classes and Object-Oriented Programming ###
 
 __Time__ Monday, October 11, 0800-1000 (1200 w. café)  
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
@@ -115,6 +115,8 @@ Object oriented programming (OOP) is a programming paradigm used to structure a 
 Version control with git is an invaluable tool for every coder, extending it with online repositories and social coding through GitHub completes the toolbox.
 
 ##### Reading
+
+* [Version Control with Git: Get Started in less than 15 Minutes](https://towardsdatascience.com/version-control-with-git-get-started-in-less-than-15-minutes-696b4ce7ce92)
 
 ---
 
