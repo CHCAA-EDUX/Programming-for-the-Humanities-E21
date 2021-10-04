@@ -2,6 +2,8 @@
 
 by Name Nameson, course, year...
 
+---
+
 ## Introduction ##
 
 __This text is bold__
@@ -31,7 +33,11 @@ print('A Python Code Block')
 ```
 
 ```sh
-echo 'A Bash/Terminal Code Block'
+echo 'A Shell Code Block'
 ```
 
 ## Discussion ##
+
+This is a smiling imp: :smiling_imp:
+
+And this is a [link](https://github.com/hlaueriksson/github-emoji) to more GitHub emojis
