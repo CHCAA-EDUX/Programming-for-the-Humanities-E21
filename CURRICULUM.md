@@ -105,7 +105,7 @@ A string is a sequence of characters (character is a symbol). In Python 3, as in
 
 ### Lesson 6: Formats for Representing Structured Data (CSV and JSONS)
 
-__Time__ Monday, November 01, 0800-1000 (1200 w. café) 
+__Time__ Monday, October 11, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
@@ -118,7 +118,7 @@ __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-
 
 ### Lesson 7: Classes and Object-Oriented Programming ###
 
-__Time__ Monday, October 11, 0800-1000 (1200 w. café)  
+__Time__ Monday, October 25, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 Object oriented programming (OOP) is a programming paradigm used to structure a program into bundles of related properties and behaviors into individual objects. Python classes provide all the standard features of OOP (inheritance mechanism, derived classes that override methods of base class, method call of base class). This lesson will teach you how to use OOP in Python to write a strategic code base that can be used and re-used across multiple projects.
@@ -135,7 +135,7 @@ Version control with git is an invaluable tool for every coder, extending it wit
 
 ### Lesson 8: Classes and Object-Oriented Programming ###
 
-__Time__ Monday, October 25, 0800-1000 (1200 w. café)
+__Time__ Monday, November 01, 0800-1000 (1200 w. café) 
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 Object oriented programming (OOP) is a programming paradigm used to structure a program into bundles of related properties and behaviors into individual objects. Python classes provide all the standard features of OOP (inheritance mechanism, derived classes that override methods of base class, method call of base class). This lesson will teach you how to use OOP in Python to write a strategic code base that can be used and re-used across multiple projects.
