@@ -103,7 +103,20 @@ A string is a sequence of characters (character is a symbol). In Python 3, as in
 
 ---
 
-### Lesson 6: Classes and Object-Oriented Programming ###
+### Lesson 6: Formats for Representing Structured Data (CSV and JSONS)
+
+__Time__ Monday, November 01, 0800-1000 (1200 w. café) 
+__Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
+
+#### Coding Café
+
+##### Reading
+* Sweigart 2019, chp 16: [Working with CSV Files and JSON Data](https://automatetheboringstuff.com/2e/chapter16/)
+
+
+---
+
+### Lesson 7: Classes and Object-Oriented Programming ###
 
 __Time__ Monday, October 11, 0800-1000 (1200 w. café)  
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
@@ -120,7 +133,7 @@ Version control with git is an invaluable tool for every coder, extending it wit
 
 ---
 
-### Lesson 7: Classes and Object-Oriented Programming ###
+### Lesson 8: Classes and Object-Oriented Programming ###
 
 __Time__ Monday, October 25, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
@@ -135,19 +148,7 @@ Object oriented programming (OOP) is a programming paradigm used to structure a 
 
 ##### Assignment 3 #####
 
-* TBA
-
----
-
-### Lesson 8: Formats for Representing Structured Data (CSV and JSONS)
-
-__Time__ Monday, November 01, 0800-1000 (1200 w. café) 
-__Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
-
-#### Coding Café
-
-##### Reading
-* Sweigart 2019, chp 16: [Working with CSV Files and JSON Data](https://automatetheboringstuff.com/2e/chapter16/)
+* Class design and implementation
 
 ---
 
