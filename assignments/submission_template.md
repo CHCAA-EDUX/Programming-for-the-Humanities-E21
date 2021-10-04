@@ -1,6 +1,10 @@
 # Title #
 
-by Name Nameson, course, year...
+By Name Nameson, course, year...
+
+Group submission: yes/no
+
+Group members: name-1 nameson-1, name-2 nameson-2, ..., name-n nameson-n
 
 ---
 
