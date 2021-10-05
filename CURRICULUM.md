@@ -108,7 +108,15 @@ A string is a sequence of characters (character is a symbol). In Python 3, as in
 __Time__ Monday, October 11, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
-#### Coding Café
+In this lesson will cover how to work with CSV files and JSON data in Python.
+CSV and JSON are data formats you most likely will encounter when doing data analysis.
+CSV data (**C**omma **S**eparated **Va**lues) is widely used for tabular data. You might have seen it when working with a spreadsheet in Microsoft Excel.
+JSON data (**J**ava**S**cript **O**bject **N**) is widely used for web applications and for communicating with servers. JSON data is structured in a nested hierarchy of key-value pairs.
+
+
+
+#### Coding Café: Horoscope Challenge
+In this coding café we will make a Horoscope Program.
 
 ##### Reading
 * Sweigart 2019, chp 16: [Working with CSV Files and JSON Data](https://automatetheboringstuff.com/2e/chapter16/)
@@ -135,7 +143,7 @@ Version control with git is an invaluable tool for every coder, extending it wit
 
 ### Lesson 8: Classes and Object-Oriented Programming ###
 
-__Time__ Monday, November 01, 0800-1000 (1200 w. café) 
+__Time__ Monday, November 01, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 Object oriented programming (OOP) is a programming paradigm used to structure a program into bundles of related properties and behaviors into individual objects. Python classes provide all the standard features of OOP (inheritance mechanism, derived classes that override methods of base class, method call of base class). This lesson will teach you how to use OOP in Python to write a strategic code base that can be used and re-used across multiple projects.
@@ -154,7 +162,7 @@ Object oriented programming (OOP) is a programming paradigm used to structure a 
 
 ### Lesson 9: Web Scraping
 
-__Time__ Monday, November 08, 0800-1000 (1200 w. café) 
+__Time__ Monday, November 08, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
@@ -166,7 +174,7 @@ __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-
 
 ### Lesson 10: Information Visualization
 
-__Time__ Monday, November 15, 0800-1000 (1200 w. café) 
+__Time__ Monday, November 15, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
@@ -192,7 +200,7 @@ Machine learning is an approach to programming that use data and learning system
 
 ### Lesson 12: Supervised Machine Learning 1 ###
 
-__Time__ Monday, November 29, 0800-1000 (1200 w. café) 
+__Time__ Monday, November 29, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
