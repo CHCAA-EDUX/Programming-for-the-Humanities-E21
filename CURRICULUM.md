@@ -108,7 +108,11 @@ A string is a sequence of characters (character is a symbol). In Python 3, as in
 __Time__ Monday, October 11, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
-#### Coding Café
+Some description here
+
+#### Coding Café: Horoscope-challenge ####
+
+In this code café you have to work with the `horoscope.csv` ...
 
 ##### Reading
 * Sweigart 2019, chp 16: [Working with CSV Files and JSON Data](https://automatetheboringstuff.com/2e/chapter16/)
