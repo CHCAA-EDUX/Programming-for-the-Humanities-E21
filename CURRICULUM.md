@@ -119,7 +119,7 @@ In this coding café we will make a Horoscope Program and use the dataset `horos
 
 
 ##### Reading
-* Sweigart 2019, chp 12: [Working with CSV files and JSON data](https://automatetheboringstuff.com/2e/chapter16/)
+* Sweigart 2019, chp 16: [Working with CSV files and JSON data](https://automatetheboringstuff.com/2e/chapter16/)
 
 
 ---
