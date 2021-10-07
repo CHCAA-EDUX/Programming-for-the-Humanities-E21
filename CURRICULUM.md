@@ -114,11 +114,12 @@ CSV data (**C**omma **S**eparated **Va**lues) is widely used for tabular data. Y
 JSON data (**J**ava**S**cript **O**bject **N**) is widely used for web applications and for communicating with servers. JSON data is structured in a nested hierarchy of key-value pairs.
 
 
-
 #### Coding Café: Horoscope Challenge
 In this coding café we will make a Horoscope Program and use the dataset `horoscopes.csv`.
 
 
+##### Reading
+* Sweigart 2019, chp 12: [Working with CSV files and JSON data](https://automatetheboringstuff.com/2e/chapter16/)
 
 
 ---
