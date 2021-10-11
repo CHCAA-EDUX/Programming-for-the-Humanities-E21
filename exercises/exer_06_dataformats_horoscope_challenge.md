@@ -1,4 +1,59 @@
-## Horoscope Challenge
+## Exercises for data formats
+### Check your understanding
+
+1) Let this be our dataframe:
+
+```
+print(df)
+
+>>>
+
+          fire      earth       air    water
+0        Aries     Taurus    Gemini   Cancer
+1          Leo      Virgo     Libra  Scorpio
+2  Sagittarius  Capricorn  Aquarius   Pisces
+```
+This type does the following return:
+
+`df.loc[0]`
+
+`df.loc[0].values`
+
+
+2) What is the difference between these lines:
+
+* `df.drop_duplicates(subset ="horoscope",
+                     keep = False, inplace = True)`
+* `df.drop_duplicates(subset ="horoscope", keep = first, inplace = True)`  
+
+* `new_df = df.drop_duplicates(subset ="horoscope", keep = last, inplace = False)`    
+
+
+3) Explain the structure of this JSON data:
+
+```
+{
+	"id": "0001",
+	"type": "donut",
+	"name": "Cake",
+	"image":
+		{
+			"url": "images/0001.jpg",
+			"width": 200,
+			"height": 200
+		},
+	"thumbnail":
+		{
+			"url": "images/thumbnails/0001.jpg",
+			"width": 32,
+			"height": 32
+		}
+}
+```
+
+(Found at https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
+
+## Pair Programming -- Horoscope Challenge
 
 
 
