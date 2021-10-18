@@ -131,13 +131,11 @@ __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-
 
 Object oriented programming (OOP) is a programming paradigm used to structure a program into bundles of related properties and behaviors into individual objects. Python classes provide all the standard features of OOP (inheritance mechanism, derived classes that override methods of base class, method call of base class). This lesson will teach you how to use OOP in Python to write a strategic code base that can be used and re-used across multiple projects.
 
-#### Coding Café: Version Control ####
+#### Coding Café:  ####
 
-Version control with git is an invaluable tool for every coder, extending it with online repositories and social coding through GitHub completes the toolbox.
 
 ##### Reading
 
-* [Version Control with Git: Get Started in less than 15 Minutes](https://towardsdatascience.com/version-control-with-git-get-started-in-less-than-15-minutes-696b4ce7ce92)
 
 ---
 
