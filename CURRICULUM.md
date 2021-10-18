@@ -131,10 +131,13 @@ __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-
 
 Object oriented programming (OOP) is a programming paradigm used to structure a program into bundles of related properties and behaviors into individual objects. Python classes provide all the standard features of OOP (inheritance mechanism, derived classes that override methods of base class, method call of base class). This lesson will teach you how to use OOP in Python to write a strategic code base that can be used and re-used across multiple projects.
 
-#### Coding Café:  ####
+#### Coding Café: Fun with OOP  ####
+
 
 
 ##### Reading
+
+* Phillips 2015, chp 1, [Object-oriented Design](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21/blob/main/reading/Phillipos-2015-OOP-01.pdf)
 
 
 ---
@@ -150,7 +153,7 @@ Object oriented programming (OOP) is a programming paradigm used to structure a 
 
 ##### Reading
 
-* [Python Doc - Classes](https://docs.python.org/3/tutorial/classes.html)
+* Phillips 2015, chp 2, [Objects in Python](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21/blob/main/reading/Phillipos-2015-OOP-02.pdf)
 
 ##### Assignment 3 #####
 
