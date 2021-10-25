@@ -8,7 +8,7 @@ We are going to create a set of classes of which [Kristoffer L Nielbo](https://p
 
 Create a file `class_intro.py`.
 
-We start by implementing a `Person` class with three attributes as a one required parameter `name` and two optional `age` and `sex`.
+We start by implementing a `Person` class with three attributes, one required parameter `name` and two optional `age` and `sex`.
 
 ```py
 class Person:
@@ -18,6 +18,8 @@ class Person:
         self.sex = sex
 ```
 
+Run in interactive mode with `i` flag
+
 ```sh
 $ python -i class_intro.py
 >>> kln = Person('Kristoffer L. Nielbo', age=44, sex="male")
@@ -25,7 +27,7 @@ $ python -i class_intro.py
 Kristoffer L. Nielbo is a male specimen of 44 years
 ```
 
-Let us add some behavior, start with 'getters' to get surname 
+Let us add some behavior, start with 'get()' functionality to produce surname
 
 ```py
 class Person:
@@ -38,7 +40,7 @@ class Person:
         return self.name.split()[-1]
 ```
 
-and year of birth
+then we produce year of birth. Notice that we introduce a dependency `datetime` to caclulate age.
 
 ```py
 import datetime
@@ -57,7 +59,7 @@ class Person:
         return now.year - self.age
 ```
 
-Notice that we introduce a dependency `datetime` to caclulate age.
+and run from terminal
 
 ```sh
 $ python -i class_intro.py
@@ -66,7 +68,7 @@ $ python -i class_intro.py
 Mr. Nielbo was born in 1977
 ```
 
-We can also add 'setters' to set a Persons mood.
+We can also add 'set()' to let a Persons respond emotionally to a context
 
 ```py
 class Person:
@@ -91,6 +93,7 @@ class Person:
             print(f'{self.name.split()[0]}: #@*%')
 ```
 
+and test in terminal, setting our subject's mood to 'happy'
 
 ```sh
 $ python -i class_intro.py
@@ -99,7 +102,11 @@ $ python -i class_intro.py
 Kristoffer: I have no regrets over past mistakes
 ```
 
-And we can override methods using dunder methods (this is an advanced topic) - in this case with `repr` that we use to change the printable representational string of the given Person instance.
+__Advanced topic__:
+
+We can overload operators using dunder methods - in this case we override the printable representational string of the given Person instance with `repr`. For more detail on operator and function overloading, see [article](https://realpython.com/operator-function-overloading/).
+
+Before operator overloading with `repr`
 
 ```sh
 >>> print(kln)
@@ -132,6 +139,8 @@ class Person:
         return f'[Person: {self.name}, {self.age}, {self.sex}]'
 ```
 
+After having change the printable representational string
+
 ```sh
 $ python -i class_intro.py
 >>> kln = Person('Kristoffer L. Nielbo', age=44, sex="male")
@@ -139,7 +148,7 @@ $ python -i class_intro.py
 [Person: Kristoffer L. Nielbo, 44, male]
 ```
 
-Now we create a researcher subclass of person. Following our analysis, a researcher has a paygrade (it is a profession) and research areas. We use integers to model pay ('squishies') and a list for strings for research areas. We provide default values for both parameters.
+Now we create a researcher subclass of person. Following our analysis, a researcher has a paygrade (it is a profession) and research areas. We use integers to model pay (in 'squishies') and a list of strings for research areas. We provide default values for both parameters.
 
 ```py
 class Researcher(Person):
@@ -149,7 +158,7 @@ class Researcher(Person):
         self.areas = areas
 ```
 
-Notice `super` super() to avoid referring to the base class (Person) explicitly. But the main advantage comes with multiple inheritance (advanced topic).
+Notice we use `super()` to delegate an object to a parent class and thereby to avoid referring to the base class (Person) explicitly. The main advantage comes with multiple inheritance.
 
 ```sh
 $ python -i class_intro.py
@@ -165,7 +174,7 @@ Dr. Nielbo works in culture analytics
 Dr. Nielbo works in humanities computing
 ```
 
-We also want to be able to give researchers a bonus, if they perform well. We add a method `giveBonus()` that allow use to add bonus squishies.
+We also want to be able to give researchers a bonus (if they perform well). We add a method `giveBonus()` that allow us to add bonus squishies.
 
 ```py
 class Researcher(Person):
@@ -177,6 +186,8 @@ class Researcher(Person):
     def giveBonus(self, bonus):
         self.pay = self.pay + bonus
 ```
+
+Now let us give instantiate our test subject and give him a bonus of 1 squishy.
 
 ```sh
 $ python -i class_intro.py
@@ -190,7 +201,9 @@ $ python -i class_intro.py
 Paygrade of Kristoffer L. Nielbo after a bonus is 11 squishies
 ```
 
-Finally, we want to create our researcher subclass `PrincipalInvestigator`. PI's are like researchers, but they also have to manage a research group (a laboratory), which can be taxing on the nerves. We therefore want to give an additional bonus relative to the pain and suffering of the PI's job `painandsuffering`.
+__Advanced topic__:
+
+Finally, we want to create our researcher subclass `PrincipalInvestigator` using multiple inheritance. PI's are like researchers, but they also have to manage a research group (i.e., a laboratory), which can be taxing on the nerves. We therefore want to give an additional bonus relative to the pain and suffering of the PI's job `painandsuffering`. Notice that we use function overloading of `giveBonus` to implement this behavior. 
 
 ```py
 class PrincipalInvestigator(Researcher):
@@ -198,7 +211,7 @@ class PrincipalInvestigator(Researcher):
         Researcher.giveBonus(self, bonus * (1 + painandsuffering))
 ```
 
-And finally we can instantiate KLN
+And finally we can instantiate the test subject as a principal investigator, give him a bonus and and set his mood accordingly.
 
 ```sh
 $ python -i class_intro.py
