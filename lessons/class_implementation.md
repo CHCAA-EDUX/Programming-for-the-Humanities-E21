@@ -287,6 +287,9 @@ def main():
         )
     kln.giveBonus(1)
     kln.setMood(happy=True)
+
+if __name__ == '__main__':
+    main()
  ```
 
 ---
