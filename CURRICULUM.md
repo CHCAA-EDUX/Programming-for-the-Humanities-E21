@@ -178,12 +178,16 @@ __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-
 __Time__ Monday, November 15, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
+Exploration and communication of data through a visual medium is an essential tool of research. This lesson will focus on the use of `matplotlib` to efficiently explore and communicate research results. `Matplotlib` is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+
 #### Coding Café
 
+Work on assignment 4 in groups.
 ##### Reading #####
 
+Rougier, N. P., Droettboom, M., & Bourne, P. E. (2014). [Ten Simple Rules for Better Figures](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21/raw/main/reading/Rougier-2014-Ten-Simple-Rules.pdf). PLoS Computational Biology, 10(9), e1003833.
 #### Assignment 4 ####
-* TBA
+* Time Series Visualization with `Matplotlib`
 
 ---
 
