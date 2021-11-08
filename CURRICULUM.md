@@ -186,7 +186,13 @@ Work on assignment 4 in groups.
 ##### Reading #####
 
 Rougier, N. P., Droettboom, M., & Bourne, P. E. (2014). [Ten Simple Rules for Better Figures](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21/raw/main/reading/Rougier-2014-Ten-Simple-Rules.pdf). PLoS Computational Biology, 10(9), e1003833.
+
+###### Additional reading ######
+
+Tufte, & R, E. (2001). The Visual Display of Quantitative Information (2nd edition). Graphics Press.
+
 #### Assignment 4 ####
+
 * Time Series Visualization with `Matplotlib`
 
 ---
