@@ -21,7 +21,7 @@ Extract all names and titles of researchers from https://www.au.dk/om/presse/eks
 print them to the console
 
 ### Exercise 3
-Extract all 116 comic book titles from http://comicscontainer.dk/comicbooks?dynamicSearch=ru&page=1 
+Extract all 46 comic book titles from http://comicscontainer.dk/comicbooks?dynamicSearch=ru&page=1 
 and save them to a file (`comic-book-titles.txt`)
 
 **Hint** Consider how you will determine when you have reached the last page (last page + 1), so you don’t get an infinite loop
