@@ -42,7 +42,7 @@ data  figures ivis
 
 ## Ten Rules of Visualization ##
 
-1. Know you Audience
+1. Know your Audience
 2. Identify your Message
 3. Adapt the Figure to the Support Medium
 4. Captions are not optional
@@ -237,4 +237,7 @@ for filename in filenames:
 
 ---
 
-This material has been adapted from [Software Carpentries](https://software-carpentry.org/) [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) lesson by [CHCAA](https://chcaa.io/#/). 
+For more examples of the ten rules, See Rougier, N. P., Droettboom, M., & Bourne, P. E. (2014). Ten Simple Rules for Better Figures. PLoS Computational Biology, 10(9), e1003833. https://doi.org/10.1371/journal.pcbi.1003833
+
+
+This material has been adapted from [Software Carpentries](https://software-carpentry.org/) [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) lesson by [CHCAA](https://chcaa.io/#/).
