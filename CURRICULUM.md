@@ -203,9 +203,26 @@ __Time__ Monday, November 22, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 Machine learning is an approach to programming that use data and learning systems to train algorithms (instead of specifying discrete steps in a programming space). This lesson is predominantly theoretical and will explain learning methods in machine learning as well as challenges such as black-box models and parity issues.
-#### Coding Café
+
+#### Coding Café ####
+
+Discussion of individual assignment
 
 ##### Reading
+
+Read either the conceptual or formal introduction, and read the bias in AI:
+
+__Conceptual Introduction__
+
+Nielbo, K. L., Nichols, R., & Slingerland, E. (2017). [Mining the Past – Data-Intensive Knowledge Discovery in the Study of Historical Textual Traditions](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21/blob/main/reading/Nielbo-2017-Mining-the-Pase.pdf). Journal of Cognitive Historiography, 3(1–2), 93–118. 
+
+__Formal Introduction__
+
+Raschka, S. (2017). [Naive Bayes and Text Classification I - Introduction and Theory](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E21/blob/main/reading/Raschka-2017-Naive-Bayes-and-Text-Classification.pdf). ArXiv:1410.5329 [Cs].
+
+__Bias in AI__
+
+Mattu, J. A., Jeff Larson,Lauren Kirchner,Surya. (2016). [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). ProPublica.
 
 ---
 
@@ -219,7 +236,8 @@ __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-
 ##### Reading #####
 
 #### Assignment 5 ####
-* TBA
+
+* Horoscope classification
 
 ---
 
@@ -229,6 +247,8 @@ __Time__ Monday, December 05, 0800-1000 (1200 w. café)
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
+
+Feedback on individual assignment
 
 ##### Reading
 
