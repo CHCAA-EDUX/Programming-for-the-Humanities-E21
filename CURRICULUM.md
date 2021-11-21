@@ -197,7 +197,7 @@ Tufte, & R, E. (2001). The Visual Display of Quantitative Information (2nd editi
 
 ---
 
-### Lesson 11: Introduction to Machine Learning and AI
+### Lesson 11: Just a Machine the Learns - Introduction to Machine Learning and AI ###
 
 __Time__ Monday, November 22, 0800-1000 (1200 w. café)   
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.

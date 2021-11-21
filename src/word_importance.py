@@ -117,15 +117,18 @@ data = ['TPol is smarter than the others',
         'The sun is shining in the sky',
         'The night sky is full of start'
         ]
-    
+
+print(''.join(data).split())    
     
 wc = word_count(' '.join(data))
+
+print(type(wc))
 (dtm,  lexicon) = list_to_dtm(data)
 tfidf = dtm_to_tfidf(dtm, lexicon)
 counter = tfidf_to_counter(tfidf, lexicon)
 
-print(lexicon)
-for i, doc in enumerate(dtm):
-    print(data[i])
-    print(doc)
+#print(lexicon)
+#for i, doc in enumerate(dtm):
+#    print(data[i])
+#    print(doc)
 
