@@ -75,11 +75,17 @@ corpus = df['horoscope'].loc[idxs].values
 To place two or more signs in the same variable use this pattern
 
 ```py
+ # import pandas module
+import pandas as pd
+# read data
+data = pd.read_csv('data/horoscopes.csv')
+# create indices
 idxs0 = data['sign'] == 'virgo'
 idxs1 = data['sign'] == 'leo'
 idxs = idxs0.values + idxs1.values
+# extract predictors (to become X)
 corpus = data['horoscope'].loc[idxs].values
-# and for the target variable
+# and for the target variable y
 y = data['sign'].loc[idxs].values
 ```
 
