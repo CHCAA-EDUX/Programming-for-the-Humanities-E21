@@ -78,7 +78,7 @@ To place two or more signs in the same variable use this pattern
 idxs0 = data['sign'] == 'virgo'
 idxs1 = data['sign'] == 'leo'
 idxs = idxs0.values + idxs1.values
-corpus = df['horoscope'].loc[idxs].values
+corpus = data['horoscope'].loc[idxs].values
 # and for the target variable
 y = data['sign'].loc[idxs].values
 ```
