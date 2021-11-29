@@ -79,6 +79,8 @@ idxs0 = data['sign'] == 'virgo'
 idxs1 = data['sign'] == 'leo'
 idxs = idxs0.values + idxs1.values
 corpus = df['horoscope'].loc[idxs].values
+# and for the target variable
+y = data['sign'].loc[idxs].values
 ```
 
 ## 2. Effects of preprocessing ##
