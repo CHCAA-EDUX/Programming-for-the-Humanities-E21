@@ -243,7 +243,7 @@ __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-
 
 ### Lesson 13: Supervised Machine Learning ###
 
-__Time__ Monday, December 05, 0800-1000 (1200 w. café)
+__Time__ Monday, December 06, 0800-1000
 __Location__ room 138 in building [5008](https://www.au.dk/om/organisation/find-au/bygningskort/?b=5008), Helsingforsgade 8.
 
 #### Coding Café
