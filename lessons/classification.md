@@ -7,7 +7,7 @@ $$P(c|t) = \frac{P(t|c) P(c)}{P(t)}$$
 With the Bayes theorem, we can compute the probability of a class (e.g., virgo in the horroscopes data) given a lexical feature (e.g., 'stressed'). $P(t|c)$ is the probablity (or likelihood) of the lexical feature given that the class is true. $P(c)$ and $P(t)$ are the independent probabilities of the class and lexical feature in a given data set. So for the horroscopes data set, the Bayes theorem can be applied as
 
 
-$$P(virgo|\text{`stressed'}) = \frac{P(\text{`stressed'}|) P(virgo)}{P(\text{`stressed'})}$$
+$$P(virgo|\text{`stressed'}) = \frac{P(\text{`stressed'}|virgo) P(virgo)}{P(\text{`stressed'})}$$
 
 and we call
 
